@@ -1,7 +1,7 @@
 public class Main
 {
 int salary;
-int price;
+
 void teach(int salary)
 {
 salary = 10;
